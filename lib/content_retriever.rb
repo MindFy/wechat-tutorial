@@ -6,9 +6,8 @@ class ContentRetriver
 		{
 			total: 1,
 			contents: [{
-				title: '简单几步成为微信公众平台开发者',
-				description: '该公众账户是为了演示如何成为微信平台的开发者，如果想要了解更详细的内容，请点击该消息。',
-				picture: 'http://www.ahut.edu.cn/',
+				title: '微工大',
+				description: '欢迎您关注微工大，功能正在完善中。想要了解安徽工业大学，请点击该消息。',
 				url: 'http://www.ahut.edu.cn/'}]
 		}
 	end
