@@ -2,6 +2,6 @@ wechat_id: gh_2119453d90f0 #replace this with your wechat id
 help_message: your help message
 welcome_message:
   title: 微工大
-  picture: https://www.ahut.edu.cn/
+  picture: https://www.ahut.edu.cn/xyfg/3.jpg
   description: 欢迎您关注微工大
   link: http://www.ahut.edu.cn/
